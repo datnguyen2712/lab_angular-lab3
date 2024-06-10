@@ -1,0 +1,11 @@
+.title-h4 {
+    color: red;
+}
+.crop { 
+    overflow: hidden; 
+} 
+.btn-customs {
+    width: 5rem;
+    height: 40px;
+    color: white;
+}
